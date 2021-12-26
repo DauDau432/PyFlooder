@@ -17,7 +17,7 @@ cd PyFlooder
 ```
 # Cách sử dụng
 ```
-python3 pyflooder.py < Hostname > < Port > < Number_of_Attacks >
+python3 pyflooder.py <Hostname> <Port> <Number_of_Attacks>
 ```
 Trong đó
 - `Hostname` địa chỉ web bị tấn công
