@@ -1,5 +1,5 @@
 # PyFlooder
-Một HTTP lũ kịch bản Python có thể ngăn chặn một trang web bình thường trong 10s
+Một kịch bản Python tạo ra lũ HTTP có thể ngăn chặn một trang web bình thường trong 10s
 # Làm thế nào nó hoạt động ?
 Nó tạo ra một số lượng yêu cầu GET ngẫu nhiên có thể định cấu hình và gửi chúng đến mục tiêu
 # Cài đặt
